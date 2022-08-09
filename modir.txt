@@ -1,0 +1,1 @@
+name_karmand:hhosein name_khanevadegi:aa kode_meli:123123 tarikh_tavalod:1350/1/1 user_id:1sdd password:12 kode_personeli:22 paye_daryafti:67 saat_morakhasi_dar_in_mah:0 saat_ezafe_kari_dar_in_mah:0 hoghogh:1

@@ -1,0 +1,1 @@
+name_karmand:zahra name_khanevadegi:ashary kode_meli:00433242 tarikh_tavalod:1350/1/1 user_id:za4hra password:50225666 kode_personeli:3433 paye_daryafti:6056677 saat_morakhasi_dar_in_mah:14 saat_ezafe_kari_dar_in_mah:10 hoghogh:14332132
